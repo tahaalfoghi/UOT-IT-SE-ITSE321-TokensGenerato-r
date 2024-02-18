@@ -1,0 +1,3 @@
+int sum = a +b +c;
+
+float total = sum + sum * 2;
