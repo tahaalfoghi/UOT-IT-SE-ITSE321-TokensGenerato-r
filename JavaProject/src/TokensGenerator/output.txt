@@ -1,0 +1,19 @@
+ a + b ;
+ a a *10;
+ sum =x+y*a;
+<id,1>
+<id,2>
+<id,1>
+<id,1>
+<id,3>
+<id,4>
+<id,5>
+<id,1>
+<OP,+>
+<OP,+>
+<OP,*>
+<OP,*>
+<OP,=>
+<Symbols,;>
+<Symbols,;>
+<Symbols,;>
